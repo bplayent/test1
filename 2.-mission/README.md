@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/커버 예시2.jpg
+coverY: 0
+---
+
 # 🟣 2. Mission
 
 ## **2.1. Problem**
