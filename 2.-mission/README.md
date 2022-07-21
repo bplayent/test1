@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/커버 예시2.jpg
+cover: ../.gitbook/assets/KakaoTalk_20220721_163714204_01.png
 coverY: 0
 ---
 
