@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/커버 예시3.jpg
+coverY: 0
+---
+
 # 🟣 3. Celuv Play Platform
 
 ## **3.1. Livestreaming**
