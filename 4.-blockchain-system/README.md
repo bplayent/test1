@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/커버 예시111.jpg
+coverY: 0
+---
+
 # 🟣 4. Blockchain System
 
 ## **4.1. BaaS**
